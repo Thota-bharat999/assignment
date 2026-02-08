@@ -1,5 +1,5 @@
 # Environment
-.env.example
+.env
 venv/
 .venv/
 env/
